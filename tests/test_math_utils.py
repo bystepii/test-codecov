@@ -13,4 +13,3 @@ def test_divide_negative_numbers() -> None:
     """
     assert divide(5, -2) == -2.5
     assert divide(-2, 5) == -0.4
-
